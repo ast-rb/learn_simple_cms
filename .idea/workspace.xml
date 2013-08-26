@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a31465fa-3e63-47ed-bbb8-ded30fceb79d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/demo.css.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/demo.js.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/demo_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/demo_controller_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/demo_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/helpers/demo_helper_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/demo/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="simple_cms.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a31465fa-3e63-47ed-bbb8-ded30fceb79d" time="1377545828890" ignored="false" />
+    <file path="/Dummy.txt" changelist="a31465fa-3e63-47ed-bbb8-ded30fceb79d" time="1377545834878" ignored="false" />
     <file path="/README.rdoc" changelist="a31465fa-3e63-47ed-bbb8-ded30fceb79d" time="1377540658683" ignored="false" />
     <file path="/Gemfile" changelist="a31465fa-3e63-47ed-bbb8-ded30fceb79d" time="1377541776825" ignored="false" />
     <file path="/index.html.erb" changelist="a31465fa-3e63-47ed-bbb8-ded30fceb79d" time="1377545672865" ignored="false" />
@@ -468,7 +475,11 @@
       <created>1377545831760</created>
       <updated>1377545831760</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add controller demo">
+      <created>1377545840854</created>
+      <updated>1377545840854</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
