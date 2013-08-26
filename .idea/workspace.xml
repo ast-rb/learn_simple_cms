@@ -6,7 +6,7 @@
     </list>
     <ignored path="simple_cms.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a31465fa-3e63-47ed-bbb8-ded30fceb79d" time="1377545789061" ignored="false" />
+    <file path="/Dummy.txt" changelist="a31465fa-3e63-47ed-bbb8-ded30fceb79d" time="1377545828890" ignored="false" />
     <file path="/README.rdoc" changelist="a31465fa-3e63-47ed-bbb8-ded30fceb79d" time="1377540658683" ignored="false" />
     <file path="/Gemfile" changelist="a31465fa-3e63-47ed-bbb8-ded30fceb79d" time="1377541776825" ignored="false" />
     <file path="/index.html.erb" changelist="a31465fa-3e63-47ed-bbb8-ded30fceb79d" time="1377545672865" ignored="false" />
@@ -464,7 +464,11 @@
       <created>1377545792266</created>
       <updated>1377545792266</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add controller demo">
+      <created>1377545831760</created>
+      <updated>1377545831760</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
